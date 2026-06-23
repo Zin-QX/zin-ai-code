@@ -2,7 +2,6 @@ package com.zinqx.zinaicode.core;
 
 import com.zinqx.zinaicode.ai.model.HtmlCodeResult;
 import com.zinqx.zinaicode.ai.model.MultiFileCodeResult;
-import jakarta.annotation.Resource;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
