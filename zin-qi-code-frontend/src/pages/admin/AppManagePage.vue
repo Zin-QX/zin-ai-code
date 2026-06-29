@@ -2,7 +2,7 @@
   <div id="appManagePage">
     <!-- 搜索表单 -->
     <a-form layout="inline" :model="searchParams" @finish="doSearch">
-      <a-form-item label="应用名称">
+      <a-form-item label="前端应用名称">
         <a-input v-model:value="searchParams.appName" placeholder="输入应用名称" />
       </a-form-item>
       <a-form-item label="创建者">
